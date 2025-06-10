@@ -1,0 +1,9 @@
+{
+	"name": "azuree1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "52cc2138-d408-4de8-8d81-a1e3914aa75d",
+		"tenantId": "ea47e771-63bb-4027-9bd5-e76f95425027"
+	}
+}
